@@ -7,3 +7,5 @@
 # npm i nodemon
 
 # added: start script in "package.json" // nodemon index.js
+
+# created: Server
