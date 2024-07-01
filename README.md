@@ -9,3 +9,9 @@
 # added: start script in "package.json" // nodemon index.js
 
 # created: Server
+
+# npm i dotenv
+
+# created: .env
+
+# create: ".gitignore" || Added: "/node_modules" && ".env"
